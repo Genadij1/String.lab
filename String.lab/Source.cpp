@@ -21,7 +21,7 @@ int main()
 	{
 		cout << "value does not match";
 	}
-	cout << endl << endl;
+	cout << endl;
 	switch (action)
 	{
 	case 1:
