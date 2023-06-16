@@ -24,6 +24,7 @@
     <ProjectGuid>{427c6745-ee3a-4d0b-be07-ed1971d1ba39}</ProjectGuid>
     <RootNamespace>Stringlab</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>labb</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
